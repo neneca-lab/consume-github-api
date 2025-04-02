@@ -1,19 +1,17 @@
-<h3 align="center">
-  Como consumir a API do Github com Java
-</h3>
+# Integração com a API do GitHub usando Java e Spring Boot
 
-<p align="center">
+Este projeto demonstra como consumir a API do GitHub em uma aplicação Java utilizando o framework Spring Boot.
 
-  <img alt="Language: Java" src="https://img.shields.io/badge/language-java-green">
-  <img alt="Version: 1.0" src="https://img.shields.io/badge/version-1.0-yellowgreen">
+## Funcionalidades
 
-</p>
+- Recupera informações de repositórios públicos do GitHub.
+- Busca detalhes de usuários do GitHub.
+- Lida com autenticação e tratamento de exceções ao interagir com a API do GitHub.
 
+## Tecnologias Utilizadas
 
-## :rocket: Tecnologias utilizadas
-
-* Java 21
-* Spring Boot
+- Java 17
+- Spring Boot 3.x
 
 ## 👨🏽‍💻 Desenvolvedor <a name = "authors"></a>
 - [@neneca-lab](https://github.com/neneca-lab) 
