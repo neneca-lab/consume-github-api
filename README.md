@@ -15,4 +15,5 @@
 * Java 21
 * Spring Boot
 
-Developed by Soneca
+## 👨🏽‍💻 Desenvolvedor <a name = "authors"></a>
+- [@neneca-lab](https://github.com/neneca-lab) 
